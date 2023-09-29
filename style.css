@@ -1,0 +1,532 @@
+/* logo */
+
+.logo{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+/* NAVBAR */
+ .nav{
+    margin-top: -55px;
+    margin-right: 55px;
+    color: black;
+ }
+ .nav-link{
+   color: black;
+ } 
+ .nav-link img{
+    height: 20px;
+    width: 20px;
+ }
+ .nav-link:hover{
+   color: orangered;
+}
+
+ /* slides */
+ #carouselExampleCaptions{
+    margin-top: 16px;
+ }
+
+ .carousel-item{
+    height: 400px;
+ }
+
+ .carousel-caption{
+    position: absolute;
+    right: 15%;
+    bottom: 4.25rem;
+    left: 8%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: left;
+ }
+
+ .carousel-caption button{
+    margin-top: 99px;
+ }
+ .carousel-control-prev{
+    width: 6%;
+ }
+
+
+ /* services */
+
+ .services{
+    margin-left: 30px;
+    margin-top: 20px;
+ }
+ .services h2{
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+
+ .card{
+    margin-left: 23px;
+    margin-top:25px;
+    display: flex;
+    flex-direction: column;
+    display: inline-block;
+ }
+ .card img{
+    margin-top: 7px;
+    margin-left: 12px;
+    height: 65px;
+    width: 65px;
+ }
+
+
+ /* ABOUT US  */
+ .detail-box{
+    margin-top: 42px;
+ }
+  
+
+ .about_section{
+    margin-top: 100px;
+ }
+
+ .img-box img{
+   
+    width: 480px;
+    height: 330PX;
+    margin-left: 104px;
+ }
+
+ .detail-box a {
+    border: 2px solid orangered;
+    color: black;
+    height: 12px;
+    width: 130px;
+    border-radius: 5px;
+    background-color: orangered;
+}
+
+.border{
+    border: 2px solid orangered;
+    height: 230px;
+    width: 77px;
+    background-color: orangered;
+    margin-left: 46rem;
+    margin-top: -360px;
+}
+.border1{
+    border: 2px solid orangered;
+    height: 230px;
+    width: 77px;
+    background-color: orangered;
+    margin-left: 78rem;
+    margin-top: -83px;
+}
+
+.projects{
+    margin-top: 100px;
+    margin-left: 70px;
+}
+.projects h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+.projects h6{
+    margin-top: 46px;
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+    width: 4cm;
+    height: 29.8px;
+}
+
+.owl-filter-bar{
+   margin-left: 245px;
+   margin-top: -33px;
+   
+}
+
+.owl-filter-bar a {
+   
+   text-decoration: none;
+   color: black;
+   padding: 0px 23px ;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.owl-filter-bar a:hover{
+   color: orangered;
+}
+
+/* testimonial */
+
+.review{
+    background-image: url('img/client-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 70vh;
+    width: 100%;
+    z-index: -1;
+    margin-top: 4%;
+   
+}
+
+.name{
+   color: white;
+   margin-left: 35rem;
+   padding-top: 4rem;
+}
+
+.clieimg  img{
+   height: 100px;
+   width: 100px;
+   margin-left: 2.3cm;
+   margin-top: 2.65cm;
+   
+}
+
+.adarsh{
+      margin-top: -5rem;
+      margin-left: 2rem;
+      bottom: 6.25rem;
+   }
+
+
+.aditya{
+   margin-top: -10px;
+   border: 2px solid black;
+   color: black;
+   background-color: white;
+   width: 70%;
+   left: 14%;
+   padding-left: 33px;
+}
+.aditya h6{
+   color: orangered;
+}
+.aditya h3{
+   color: orangered;
+   margin-left:78% ;
+   margin-top: -4%;
+   font-size: 45px;
+}
+
+/* why us  */
+
+.whyus{
+   margin-top: 55px;
+   margin-left: 55px;
+   color: black;
+   font-weight: 12px;
+   
+}
+
+.whyus1{
+   margin-top: 4rem;
+}
+
+.whyus1 img{
+   background-color: orangered;
+   border: 2px solid orangered;
+   width: 200px;
+   height: 150px;
+}
+
+.whyus1 h2{
+   color: black;
+   margin-left: 280px;
+   margin-top: -160px;
+
+}
+
+.whyus1 p{
+   margin-left: 280px ;
+   margin-top: 41px;
+   border: 2px solid rgba(255, 255, 255, 0.298);
+   width:17cm;
+   height: 3cm;
+}
+
+
+.whyus2{
+   margin-top: 4rem;
+}
+
+.whyus2 img{
+   background-color: orangered;
+   border: 2px solid orangered;
+   width: 200px;
+   height: 150px;
+}
+
+.whyus2 h2{
+   color: black;
+   margin-left: 280px;
+   margin-top: -160px;
+
+}
+
+.whyus2 p{
+   margin-left: 280px ;
+   margin-top: 41px;
+   border: 2px solid rgba(255, 255, 255, 0.298);
+   width:17cm;
+   height: 3cm;
+}
+
+.whyus3{
+   margin-top: 4rem;
+}
+
+.whyus3 img{
+   background-color: orangered;
+   border: 2px solid orangered;
+   width: 200px;
+   height: 150px;
+}
+
+.whyus3 h2{
+   color: black;
+   margin-left: 280px;
+   margin-top: -160px;
+
+}
+
+.whyus3 p{
+   margin-left: 280px ;
+   margin-top: 41px;
+   border: 2px solid rgba(255, 255, 255, 0.298);
+   width:17cm;
+   height: 3cm;
+}
+
+.whyus button{
+   margin-left: 380px ;
+   margin-top: 20px;
+   border: 2px solid orangered;
+   color: white;
+   background-color: orangered;
+   
+}
+
+
+/*  CONTACT US  */
+
+.CONTACT{
+   margin-top: 100px;
+   margin-left: 200px;
+}
+
+.CONTACT h2{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color: black;
+   font-weight: 1000;
+}
+
+.input100{
+   margin: 10px;
+   padding: 15px;
+   width: 350px;
+}
+
+#ckb1{
+   margin-top: 15px;
+   margin-left: 15px;
+}
+
+.wrap-contact100-form-btn{
+   margin-top: 13px;
+   margin-left: 15px;
+}
+
+.wrap-contact100-form-btn button{
+   color: white;
+   background-color: orangered;
+   border: 2px solid orangered;
+   border-radius: 10px;
+}
+
+/* map  */
+.map{
+   margin-left: 420px;
+   margin-top: -500px;
+}
+
+.mapouter {
+   position: relative;
+   text-align: right;
+   width: 700px;
+   height: 500px;
+}
+
+.gmap_canvas {
+   overflow: hidden;
+   background: none !important;
+   width: 700px;
+   height: 500px;
+}
+
+.gmap_iframe {
+   width: 700px !important;
+   height: 500px !important;
+}
+
+
+/* contact info  */
+
+.contact-info{
+   margin-top: 10px;
+   background-color: black;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover ;
+   height: 90vh;
+   width: 100%;
+}
+
+.log{
+   padding-top: 30px;
+   display: flex;
+   flex-direction: column;
+   display: inline-block;
+   margin-left: 200px;
+   margin-top: 60px;
+}
+
+.log img{
+   height: 50px ;
+   width: 50px;
+}
+
+.call h5{
+   color: white;
+   padding-top: 12px;
+}
+
+.email{
+   margin-left: 400px;
+   margin-top: -97px;
+}
+
+.email h5{
+   color: white;
+   padding-top: 12px;
+}
+
+.location{
+   margin-left: 850px;
+   margin-top: -97px;
+}
+
+.location h5{
+   color: white;
+   padding-top: 12px;
+}
+
+/* quicklinks */
+.quicklinks{
+   margin-top: 60px;
+   margin-left: 150px;
+}
+.quicklinks h4{
+   color: #fff;
+}
+.quicklinks li{
+   list-style: none;
+}
+.quicklinks li a:hover{
+   color: orangered;
+}
+
+.quicklinks li a{
+   text-decoration: none;
+   color: white;
+   font-weight: 200px;
+}
+
+.ser{
+   margin-top: 23px;
+}
+
+.move{
+   margin-left: 60px;
+   margin-top: -70px;
+}
+
+/* INSTAGRAM FEEDS  */
+
+.feed{
+   margin-left: 500PX;
+   margin-top: -130px;
+}
+
+.feed h2{
+   color: white;
+   font-size: 30px;
+}
+.insta-img img{
+   margin-left: 23px;
+   height: 50px;
+   width: 50px;
+}
+.insta-img1 img{
+   margin-top: 4px;
+   margin-left: 23px;
+   height: 50px;
+   width: 50px;
+}
+
+/* NEWSLETTER */
+
+.newsletter{
+   margin-left: 880px;
+   margin-top: -140px;
+}
+
+.newsletter h4{
+   color: white;
+}
+
+.input101{
+   margin-top: 20px;
+   padding: 15px;
+   width: 350px;
+
+}
+
+.newsletter button{
+   margin-top: 23px;
+   width: 120px;
+   height:40px;
+   border: 2px solid orangered;
+   background-color: orangered;
+   border-radius: 10px;
+}
+
+.newsletter button:hover{
+   border: 2px solid rgba(255, 68, 0, 0.716);
+   background-color: rgba(255, 68, 0, 0.716);
+}
+
+/* logo */
+
+.fan img{
+   margin-left: 150px;
+   margin-top: 50px;
+   height: 50px;
+   width: 100px;
+}
+
+/* footer */
+
+footer{
+   text-align: center;
+   margin-top: 10px;
+}
+footer p{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: 200;
+}
+
+
+
+
+
+ 
